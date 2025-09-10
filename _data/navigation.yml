@@ -17,8 +17,8 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-  - title: "Volunteering"
-    url: /teaching/
+  # - title: "Volunteering"
+  #   url: /teaching/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Volunteering"
+    url: /markdown/
