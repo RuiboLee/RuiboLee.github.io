@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/autonomous_inspection.gif'>"
+title: "基于FAST-LIO2实时建图与YOLOv5动态检测的无人机-无人车协同救灾系统"
+excerpt: "无人机自主巡检效果<br/><img src='/images/autonomous_inspection.gif'>"
 collection: Projects
 ---
 
