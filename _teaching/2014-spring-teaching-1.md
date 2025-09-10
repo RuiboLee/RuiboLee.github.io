@@ -1,20 +1,6 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "“三下乡”暑期社会实践"
+excerpt: "“星辉寻梦”支教调研实践团<br/><img src='/images/volunteering1.gif'>"
+collection: Volunteering
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- 地点：河南商丘
